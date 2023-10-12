@@ -20,7 +20,6 @@ None
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
 - [Deep Dive into Business Decision Simulator](exercises/ex0/)
   
