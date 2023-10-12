@@ -1,4 +1,4 @@
-# Exercise 1: Experiment with a Pre-Configured Model in the Business Decision Simulator
+# Exercise 1 - Experiment with a Pre-Configured Model in the Business Decision Simulator
 
 
 ## Step 1: System Login
