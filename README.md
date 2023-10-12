@@ -26,6 +26,8 @@ None
 - [Exercise 1 - Experiment with a Pre-Configured Model in the Business Decision Simulator ](exercises/ex1/)
 
 - [Exercise 2 - Add/ Update influencer or calculation nodes in the model during simulations](exercises/ex2/)
+
+- [Exercise 3 - Add/ Update influencer or calculation nodes in the model during simulations](exercises/ex3/)
     
 
   
