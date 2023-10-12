@@ -1,18 +1,22 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2023-AI261)](https://api.reuse.software/info/github.com/SAP-samples/teched2023-AI261)
 
-# Session ID - Session Title
+# AI261 - Build an AI Agent for SAP BTP Applications Based on Exploration Topics
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called Session ID - Session Title.  
+The Business Decision Simulator,  developed by SAP's Innovation Center Network, is an innovative capability that empowers businesses to swiftly adapt to changing circumstances. It enables organizations to simulate and predict various scenarios, helping them mitigate crises and make data-driven decisions to adjust their enterprise plans. With features like no-code model creation and real-time probability-based simulations, this tool provides executive teams with the means to explore multiple scenarios, assess potential outcomes, and refine strategies, ultimately enhancing their decision-making process and making it more data driven.  
 
 ## Overview
 
-This session introduces attendees to...
+The aim of this application is to replace the time-consuming and error-prone manual Excel calculations with a fast and reliable stochastic simulation process. This enables the identification of the best response option, based on a comprehensive analysis of various possible outcomes. 
+The flow of the application can be understood using the following diagram-
+ 
+![e53007b1-1952-4457-838f-ad8d15b3b230](https://github.com/SAP-samples/teched2023-AI261/assets/147400890/e6ce5360-997a-495a-a773-fdb713441ca9)
+
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+None
 
 ## Exercises
 
