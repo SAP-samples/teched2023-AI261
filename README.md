@@ -27,7 +27,7 @@ None
 
 - [Exercise 2 - Add/ Update influencer or calculation nodes in the model during simulations](exercises/ex2/)
 
-- [Exercise 3 - Add/ Update influencer or calculation nodes in the model during simulations](exercises/ex3/)
+- [Exercise 3 - Create a New Model from an Excel File](exercises/ex3/)
     
 
   
