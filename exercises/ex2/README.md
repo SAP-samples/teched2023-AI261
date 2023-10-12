@@ -1,6 +1,6 @@
 # Exercise 2 - Add/ Update influencer or calculation nodes in the model during simulations.
 
-To add, modify, or remove a type or value for an influencer or adjust related calculation nodes, ‘Modeling’ must be triggered to do so. For instance, say after running simulation once, you want to add a new node to derive profit margins, all respective nodes including the influencers must be located and associated relations should be adjusted with this new nodein the respective model that is been used for simulations. To accomplish this, user can use the steps below:
+To add, modify, or remove a type or value for an influencer or adjust related calculation nodes, ‘Modeling’ must be triggered to do so. For instance, say after running simulation once, you want to add a new node to derive profit margins, all respective nodes including the influencers must be located and associated relations should be adjusted with this new node in the respective model that is been used for simulations. To accomplish this, user can use the steps below:
 
 ## Step 1:Click "Modelling"
 <img width="388" alt="image" src="https://media.github.tools.sap/user/91287/files/8dab6ca0-e0a0-43c1-84f7-847a6056ac21">
@@ -19,7 +19,7 @@ To add, modify, or remove a type or value for an influencer or adjust related ca
 ## Step 5: Configure the node details as required 
 For e.g., to achieve “Unit profit” as a divisionand setup a formula, and after;press “Add Node”.
 
-## Step 6:The new node will be updated in the model.
+## Step 6: The new node will be updated in the model.
 E.g., Here, you can see the new node “Unit Profit” which will be derived by dividing ‘Profit’ by the ‘Units Sold’ influencer. 
  
 ## Step 7 : Try to come up with one such node and add it to the model
