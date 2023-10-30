@@ -5,7 +5,7 @@
 ## Disclaimer for early innovation
 
 SAP Innovation Center Network (ICN) research projects introduced are exploratory in nature. SAP has no obligation to develop, commercialize or support any products, functionality, technology, or concepts arising out of these projects.
-TechED participants will have the unique opportunitues to try our innovation tools before they available. *Please to sign the following “Non-Disclosure & Release Form“ via DocuSign to take part in the session. It only takes one minute*: https://eu.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=dc5c01e6-cfed-4ddc-be5b-69e6c569df75&env=eu&acct=b861df4c-6b44-4faf-be2e-7d998643e970&v=2
+TechED participants will have the unique opportunitues to try our innovation tools before they available. *Please take time to sign the following “Non-Disclosure & Release Form“ via DocuSign to take part in the session. It only takes one minute*: https://eu.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=dc5c01e6-cfed-4ddc-be5b-69e6c569df75&env=eu&acct=b861df4c-6b44-4faf-be2e-7d998643e970&v=2
 
 ## Description
 
