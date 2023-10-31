@@ -1,5 +1,6 @@
 # simple-agent-teched
 Simple implementation of Reason &amp; Act agent without langchain for Teched
+
 <img width="370" alt="image" src="https://github.com/SAP-samples/teched2023-AI261/blob/add-config-readme-agent/exercises/ex4/images/ai_agent.png">
 
 # Prerequisites
