@@ -2,6 +2,11 @@
 
 # AI261 - Build an AI Agent for SAP BTP Applications Based on Exploration Topics
 
+## Disclaimer for early innovation
+
+SAP Innovation Center Network (ICN) research projects introduced are exploratory in nature. SAP has no obligation to develop, commercialize or support any products, functionality, technology, or concepts arising out of these projects.
+TechED participants will have the unique opportunitues to try our innovation tools before they available. *Please take time to sign the following “Non-Disclosure & Release Form“ via DocuSign to take part in the session. It only takes one minute*: https://eu.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=dc5c01e6-cfed-4ddc-be5b-69e6c569df75&env=eu&acct=b861df4c-6b44-4faf-be2e-7d998643e970&v=2
+
 ## Description
 
 The Business Decision Simulator,  developed by SAP's Innovation Center Network, is an innovative capability that empowers businesses to swiftly adapt to changing circumstances. It enables organizations to simulate and predict various scenarios, helping them mitigate crises and make data-driven decisions to adjust their enterprise plans. With features like no-code model creation and real-time probability-based simulations, this tool provides executive teams with the means to explore multiple scenarios, assess potential outcomes, and refine strategies, ultimately enhancing their decision-making process and making it more data driven.  
@@ -28,6 +33,8 @@ None
 - [Exercise 2 - Add/ Update influencer or calculation nodes in the model during simulations](exercises/ex2/)
 
 - [Exercise 3 - Create a New Model from an Excel File](exercises/ex3/)
+
+- [Exercise 4 - Build your own AI agent powered by GPT and play around adding tooling capabilities](exercises/ex4/)
     
 
   
