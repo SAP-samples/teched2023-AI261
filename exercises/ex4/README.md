@@ -1,15 +1,23 @@
 # simple-agent-teched
-Simple implementation of Reason &amp; Act agent without langchain for Teched
+Simple implementation of Reason &amp; Act agent without langchain
+
+<img width="400" alt="image" src="https://github.com/SAP-samples/teched2023-AI261/blob/add-config-readme-agent/exercises/ex4/images/ai_agent.png">
 
 # Prerequisites
 1. Python (3.10.11) & pip installed
+3. Git installed
 2. key.json file containing LLM access key inside the secrets folder
 
+# Initial setup
+Feel free to skip if done
+1. Install Python (3.10.11): https://www.python.org/downloads/release/python-31011/. Note: For Python 3.4 or later, pip is included by default.
+2. Install git: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+3. Visual Studio Code for editing code: https://code.visualstudio.com/download 
+
 # How to use
-1. open command line project root folder
+1. Navigate to [teched2023-AI261/exercises/ex4/](exercises/ex4/)
 2. create python virutal environment `python -m venv ./venv`
 3. activate the virtual environment, on Windows `.\venv\Scripts\activate` or on Mac `source venv/bin/activate`
-4. Navigate to [exercises/ex4/](exercises/ex4/)
 5. run `pip install -r requirements.txt` to install required python packages
 6. run the agent `streamlit run app.py`
 7. start typing and enjoy!
