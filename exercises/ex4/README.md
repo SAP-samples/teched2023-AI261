@@ -1,7 +1,7 @@
 # simple-agent-teched
 Simple implementation of Reason &amp; Act agent without langchain
 
-<img width="400" alt="image" src="https://github.com/SAP-samples/teched2023-AI261/blob/add-config-readme-agent/exercises/ex4/images/ai_agent.png">
+<img width="400" alt="image" src="https://github.com/SAP-samples/teched2023-AI261/blob/add-config-readme-agent/exercises/ex4/images/ai_agent.png](https://github.com/SAP-samples/teched2023-AI261/blob/main/exercises/ex4/images/ai_agent.png?raw=true">
 
 # Prerequisites
 1. Python (3.10.11) & pip installed
