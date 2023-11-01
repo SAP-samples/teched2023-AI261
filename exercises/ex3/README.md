@@ -2,7 +2,7 @@
 
 To create a new model in the simulator, please import an Excel file and follow these steps:
 
-Step 1: Firstly, you need to download the “Model Template” here in Github. 
+Step 1: Firstly, you need to download the [Model Template](https://github.com/SAP-samples/teched2023-AI261/blob/main/exercises/ex3/BDS_Model_Templates_latest.xlsx) here in Github. 
 Note: Only excel file that are in the format of model template are accepted in the application
  
 Step 2: From the downloaded model template, you can observe the guidelines to create an excel file in expected format of the model template. 
