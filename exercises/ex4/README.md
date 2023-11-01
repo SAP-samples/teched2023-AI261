@@ -10,7 +10,7 @@ Simple implementation of Reason &amp; Act agent without langchain
 
 # Initial setup
 Feel free to skip if done
-1. Install Python (3.10.11): https://www.python.org/downloads/release/python-31011/ and make sure to check the box for 'add python to environment variables' during installation. Note: For Python 3.4 or later, pip is included by default
+1. Install Python (3.10.11): https://www.python.org/downloads/release/python-31011/ and make sure to check the box for 'add python to environment variables' during installation. Your system needs to be restarted for the environment variables to reflect. Note: For Python 3.4 or later, pip is included by default
 2. Install git: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 3. Visual Studio Code for editing code: https://code.visualstudio.com/download 
 
