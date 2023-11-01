@@ -15,7 +15,7 @@ Feel free to skip if done
 3. Visual Studio Code for editing code: https://code.visualstudio.com/download 
 
 # How to use
-1. Open Desktop > Session Materials Github > AI261. This is a shortcut that open the github repo teched2023-AI261
+1. Open Desktop > Session Materials Github > AI > AI261. This is a shortcut that opens the github repo teched2023-AI261
 2. Please download the repo as a .zip file by clicking on the green button 'Code'
 3. Unzip the downloaded .zip file (teched2023-AI261-main) and open it on Visual Studio Code or an editor of your choice
 4. Open the terminal (either inside the editor or as command prompt) and navigate to [teched2023-AI261/exercises/ex4/](exercises/ex4/)
