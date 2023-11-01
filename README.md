@@ -16,7 +16,7 @@ The Business Decision Simulator,  developed by SAP's Innovation Center Network, 
 The aim of this application is to replace the time-consuming and error-prone manual Excel calculations with a fast and reliable stochastic simulation process. This enables the identification of the best response option, based on a comprehensive analysis of various possible outcomes. 
 The flow of the application can be understood using the following diagram-
  
-![application_flow](https://github.com/SAP-samples/teched2023-AI261/blob/modifying_images/images/application_flow.png)
+![application_flow](https://github.com/SAP-samples/teched2023-AI261/blob/main/images/application_flow.png)
 
 
 ## Requirements
