@@ -3,7 +3,7 @@
 
 ## Step 1: System Login
 
-Please click on the [link to demo tenant](https://axpa-model-simulation.cfapps.eu12.hana.ondemand.com/?mid=lightweight_cashliquidity) 
+Please click on the [link to demo tenant](https://budesi-teched-demo.cfapps.eu12.hana.ondemand.com/index.html) 
 
 
 ## Step 2: Select and Load the desired model.
