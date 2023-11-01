@@ -2,11 +2,8 @@
 
 To create a new model in the simulator, please import an Excel file and follow these steps:
 
-Step 1: Firstly, you need to click on “Download Model Template.”
+Step 1: Firstly, you need to download the “Model Template” here in Github. 
 Note: Only excel file that are in the format of model template are accepted in the application
-
- <img width="397" alt="image" src="https://github.com/SAP-samples/teched2023-AI261/assets/147400890/2bc2f522-ad13-476d-b03a-f995e4951276">
-
  
 Step 2: From the downloaded model template, you can observe the guidelines to create an excel file in expected format of the model template. 
 We recommend saving ‘modeling_template.xlsx’ file as a new excel file and make changes into the new file to fit your business calculation. 
