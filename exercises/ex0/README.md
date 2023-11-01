@@ -1,5 +1,5 @@
 # One-Pager Deep Dive into the Business Decision Simulator
 
-![image](https://github.com/SAP-samples/teched2023-AI261/assets/147400890/57e699c5-7a6b-45b5-9a1e-100f92500e88)
+![one_pager](https://github.com/SAP-samples/teched2023-AI261/blob/modifying_images/exercises/ex0/images/application_flow.png)
 
 
