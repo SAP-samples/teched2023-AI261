@@ -36,7 +36,7 @@ None
 
 - [Exercise 4 - Hands-on experience with AI Agent for Business Decision Simulator](exercises/ex4/)
 
-- [Exercise 4 - Build your own AI agent powered by GPT and play around adding tooling capabilities](exercises/ex5/)
+- [Exercise 5 - Build your own AI agent powered by GPT and play around adding tooling capabilities](exercises/ex5/)
     
 
   
