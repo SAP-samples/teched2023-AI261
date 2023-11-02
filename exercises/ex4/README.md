@@ -4,9 +4,7 @@
 
 Please check the number on the your table (written on a sticky note)
 
-If your number is 'X' then please note that your user id is
-
-**user id:** testuser**X**
+If your number is 'X' then please note your **user id:** testuser**X**
 
 ## Step 2: System Login
 
