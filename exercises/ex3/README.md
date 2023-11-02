@@ -1,4 +1,4 @@
-# Create a New Model from an Excel File
+# Exercise 3 - Create a New Model from an Excel File
 
 To create a new model in the simulator, please import an Excel file and follow these steps:
 
