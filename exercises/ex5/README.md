@@ -17,8 +17,8 @@ Feel free to skip if done
 # How to use
 1. Open Desktop > Session Materials Github > AI261. This is a shortcut that open the github repo teched2023-AI261
 2. Please download the repo as a .zip file by clicking on the green button 'Code'
-3. Unzip the downloaded .zip file (teched2023-AI261-main) and open it on Visual Studio Code or an editor of your choice
-4. Open the terminal (either inside the editor or as command prompt) and navigate to `teched2023-AI261/exercises/ex5/`
+3. Unzip the downloaded .zip file (teched2023-AI261-main) into the path `c:\teched\python` and open it on Visual Studio Code or an editor of your choice
+4. Open the terminal (either inside the editor or as command prompt) and navigate to `c:\teched\python\teched2023-AI261\exercises\ex5\`
 5. create python virutal environment `python -m venv ./venv`
 6. activate the virtual environment, on Windows `.\venv\Scripts\activate` or on Mac `source venv/bin/activate`
 7. run `pip install -r requirements.txt` to install required python packages
