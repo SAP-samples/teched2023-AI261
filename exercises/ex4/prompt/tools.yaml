@@ -1,7 +1,0 @@
-web_search: |
-  e.g. {"Action": "web_search", "Action Input": "{\"query\": \"<QUERY>\"}"}
-  - Use this tool access information from the web and help users with searching the web
-calculate_factorial: |
-  e.g. e.g. {"Action": "calculate_factorial", "Action Input": "{\"number\": \"<NUMBER>\"}"}
-  - use this tool to calculate the factorial for a given number
-
