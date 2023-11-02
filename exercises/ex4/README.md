@@ -6,7 +6,7 @@ Please check the number on the your table (written on a sticky note)
 
 If your number is 'X' then please note your 
 - **user id:** testuser**X**
-- password: shared in session
+- password: (Shared in Session)
 
 ## Step 2: System Login
 
