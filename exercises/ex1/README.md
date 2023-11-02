@@ -1,9 +1,12 @@
 # Exercise 1 - Experiment with a Pre-Configured Model in the Business Decision Simulator
-https://budesi-teched-demo.cfapps.eu12.hana.ondemand.com/index.html
 
 ## Step 1: System Login
 
 Please click on the [link to demo tenant](https://budesi-teched-demo.cfapps.eu12.hana.ondemand.com/index.html) 
+Username: bds-teched23
+Password: Shared in Session
+
+Please make sure you signed the NDA in order to access the tool
 
 
 ## Step 2: Select and Load the desired model.
