@@ -1,4 +1,4 @@
-# Exercise 5 - Create your own simple AI agent
+# Exercise 5 - Build your own simple AI agent
 Simple implementation of Reason &amp; Act agent without langchain
 
 <img width="400" alt="image" src="https://github.com/SAP-samples/teched2023-AI261/blob/main/exercises/ex5/images/ai_agent_diagram.png">
