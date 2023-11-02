@@ -1,4 +1,4 @@
-# Exercise 3 - Hands-on experience with AI Agent for Business Decision Simulator
+# Exercise 4 - Hands-on experience with AI Agent for Business Decision Simulator
 
 ## Step 1: Choose user
 
